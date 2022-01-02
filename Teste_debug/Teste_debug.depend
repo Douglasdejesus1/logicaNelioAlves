@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1639783795 source:c:\temp\ws-cb\teste_debug\main.c
+	<stdio.h>
+	<string.h>
+
+1639785305 source:c:\temp\ws-cb\teste if.c
+	<stdio.h>
+

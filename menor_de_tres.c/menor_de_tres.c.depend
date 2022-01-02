@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1639878847 source:c:\temp\ws-cb\menor_de_tres.c\main.c
+	<stdio.h>
+	<stdlib.h>
+
